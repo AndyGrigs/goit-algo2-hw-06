@@ -1,4 +1,4 @@
-# Тестування (потім видалиш)
+
 import hashlib
 
 item = "password123"
